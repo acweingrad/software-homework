@@ -1,3 +1,2 @@
 adding words with vim
-how do people code with this
 
